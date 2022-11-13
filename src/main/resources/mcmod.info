@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "loader_quickreport",
+    "name": "QuickReport || JartexNetwork",
+    "description": "Makes life simpler! Automatically uploads screenshots to imgur and copies the link to your clipboard & many more!",
+    "version": "1.8.9",
+    "mcversion": "{mcversion}",
+    "credits": "Thank you for using our mod! Made by mopmop2!",
+    "logoFile": "assets/QuickReport.png",
+    "mcversion": "",
+    "url": "Coming Soon",
+    "updateUrl": "",
+    "authors": "mopmop2",
+    "parent":"",
+    "screenshots": [],
+    "dependencies": ["mod_MinecraftForge"]
+  }
+  ]
