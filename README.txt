@@ -8,6 +8,9 @@ QuickReport, a mod with the version compatibility of 1.8.9 Forge, integrates a s
 Youtube Video:
 https://youtu.be/52Zs5JqlKcI
 
+Images:
+https://imgur.com/a/xzYdh0A
+
 ✅ Approved By The Moderation Team ✅
 
 « ⚔️ » (+) « Features » (+) « ⚔️ »
@@ -59,5 +62,4 @@ Note: Clients like Lunar that do not allow custom mods will not work!
 It is your responsibility to determine if detection/trigger is reportable or not!
 Logs will only capture Links w/ Usernames if AutoSS is toggled!
 
-Images:
-https://imgur.com/a/xzYdh0A
+
