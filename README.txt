@@ -58,3 +58,6 @@ Note: Clients like Lunar that do not allow custom mods will not work!
 « ❗ » (+) « Side Note » (+) « ❗ »
 It is your responsibility to determine if detection/trigger is reportable or not!
 Logs will only capture Links w/ Usernames if AutoSS is toggled!
+
+Images:
+https://imgur.com/a/xzYdh0A
